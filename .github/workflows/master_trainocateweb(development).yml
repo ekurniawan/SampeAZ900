@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'trainocateweb'
           slot-name: 'development'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C4EAACCBEDA4EB49DA939E5D7EFF09E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CEF869A486F74514B6D75256A510CEE5 }}
           package: .
